@@ -3,12 +3,15 @@
   ![header](https://capsule-render.vercel.app/api?type=rounded&text=%20KiSeoup's%20%20GitHub&color=b8caf7&fontColor=032471&fontSize=40)
 </div>
 
+<br>
+
 ## 👋 Hi, there!
 
-안녕하세요, 저는 신기섭이고, 인공지능 전문가를 꿈꾸고 있습니다.
-Hello, I'm Ki Seoup Shin, 
-현재, 국민대학교 AI빅데이터융합경영학과, 소프트웨어융합전공을 부전공으로 재학중입니다.
-관심있는 분야는 CV, Multi-Modal, 경량화, GNN 입니다.
+Hello, I'm Ki Seoup Shin, dreaming of becoming an **AI Devloper**.  
+I am majoring in the **AI Big Data & Management, Data Science** and minoring in **software**.  
+I am especially interested in **Computer Vision, Multi-Modal, Model Compression** and **GNN**.
+
+<br>
 
 ## 💻 DEV's log 💻
 <a href="https://shinkiseoup.notion.site/dbe72c05943642cca1c87b81cf80e6ea">
@@ -27,7 +30,6 @@ Hello, I'm Ki Seoup Shin,
 <a href="mailto:rltjq09@gmail.com">
 <img src="https://img.shields.io/badge/rltjq09@gmail.com-EA4335?style=round-badge&logo=Gmail&logoColor=white"> 
 
-<br>
 <br>
 <br>
 
@@ -52,7 +54,6 @@ Hello, I'm Ki Seoup Shin,
 
 <br>
 <br>
-<br>
 
 ## 🧑‍💻 Career 🧑‍💻
 |활동시기|기관|명칭|비고|
@@ -65,7 +66,6 @@ Hello, I'm Ki Seoup Shin,
 |2023.01~2024.01|빅데이터분석학회 제10대 D&A|학회장| |
 |2024.01~|ToBigs 제21기|학회원| |
 
-<br>
 <br>
 <br>
 
