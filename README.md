@@ -64,7 +64,7 @@ I am especially interested in **Computer Vision, Multi-Modal, Model Compression*
 |2019.03~2019.12|빅데이터분석학회 제6대 D&A|학회원|수료|
 |2023.02~2023.12|인공지능학회 X:AI|학회원|수료|
 |2023.01~2024.01|빅데이터분석학회 제10대 D&A|학회장| |
-|2024.01~|ToBigs 제21기|학회원| |
+|2024.01~|빅데이터학회 ToBigs 제21기|학회원| |
 
 <br>
 <br>
