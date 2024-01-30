@@ -19,7 +19,7 @@ I am especially interested in **Computer Vision, Multi-Modal, Model Compression*
 </a>
 
 <a href="https://rltjq09.tistory.com">
- <img src="https://img.shields.io/badge/tistory-fa0707?style=round-square&logo=tistory&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/tistory-fa0707?style=round-square&logo=tistory&logoColor=ffffff">
 </a>
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rltjq09&theme=default)](https://rltjq09.tistory.com)
